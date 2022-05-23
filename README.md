@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tokeshwar](https://github.com/Tokeshwar)
 
-- 📫 How to reach me **tokeshwar007@gmail.com**
+- 📫 You can reach me **tokeshwar007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
